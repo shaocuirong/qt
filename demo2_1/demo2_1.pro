@@ -1,4 +1,4 @@
-QT += widgets
+QT += core gui widgets multimedia
 
 CONFIG += c++17
 
@@ -9,15 +9,18 @@ CONFIG += c++17
 SOURCES += \
     LoginDialog.cpp \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    scr003.cpp
 
 HEADERS += \
     LoginDialog.h \
-    mainwindow.h
+    mainwindow.h \
+    scr003.h
 
 FORMS += \
     LoginDialog.ui \
-    mainwindow.ui
+    mainwindow.ui \
+    scr003.ui
 
 TRANSLATIONS += \
     demo2_1_zh_CN.ts
