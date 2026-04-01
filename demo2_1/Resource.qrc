@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/China.gif</file>
+        <file>images/filenew.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/filesave.png</file>
+        <file>images/filesaveas.png</file>
+        <file>images/find.png</file>
+        <file>images/Greatwall.gif</file>
+        <file>images/hb.gif</file>
+        <file>images/zgws.gif</file>
+        <file>images/北斗.gif</file>
+        <file>images/民兵方阵.gif</file>
+        <file>images/最帅天团.gif</file>
+    </qresource>
+</RCC>
